@@ -6,5 +6,5 @@ date: 2023-06-07T11:55:15+07:00
 {{% notice style="grey" icon="exclamation-circle" title="Kỹ năng" %}}
 Tăng tốc độ đánh trong 4 giây. Trong thời gian đó, các đòn tấn công phát nổ khi va chạm và gây sát thương vật lý cho kẻ thù trong vòng 1 ô.
 
-Nâng cấp 4 sao: Mỗi đòn đánh thứ 8 gây thêm 45/68/101/152 sát thương vật lý và nảy vào nhóm kẻ thù đông nhất, gây 23/34/51/76 sát thương vật lý lên kẻ địch trong vòng 1 ô.
+Nâng cấp 4 sao: Mỗi đòn đánh thứ 8 gây thêm 152 sát thương vật lý và nảy vào nhóm kẻ thù đông nhất, gây 76 sát thương vật lý lên kẻ địch trong vòng 1 ô.
 {{% /notice %}}
