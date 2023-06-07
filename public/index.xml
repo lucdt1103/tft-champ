@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TFT| Champions</title>
+    <link>http://example.org/index.html</link>
+    <description>Recent content on TFT| Champions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1$</title>
+      <link>http://example.org/1cost/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/1cost/index.html</guid>
+      <description>Danh sách 13 tướng 1$ Cassiopeia Cho’Gath Irelia Jhin Kayle Malzahar Maokai Orianna Poppy Renekton Samira Tristana Viego </description>
+    </item>
+    <item>
+      <title>2$</title>
+      <link>http://example.org/2cost/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/2cost/index.html</guid>
+      <description>Danh sách tướng 2$</description>
+    </item>
+    <item>
+      <title>3$</title>
+      <link>http://example.org/3cost/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/3cost/index.html</guid>
+      <description>Danh sách tướng bậc 3.</description>
+    </item>
+    <item>
+      <title>4$</title>
+      <link>http://example.org/4cost/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/4cost/index.html</guid>
+      <description>Danh sách tướng 4$</description>
+    </item>
+    <item>
+      <title>5$</title>
+      <link>http://example.org/5cost/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/5cost/index.html</guid>
+      <description>Danh sách tướng 5$</description>
+    </item>
+  </channel>
+</rss>
