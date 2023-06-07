@@ -1,7 +1,7 @@
 ---
 title: "Ryze"
 date: 2023-06-07T11:55:15+07:00
-draft: true
+
 ---
 ![Ryze](https://storage.googleapis.com/www.publish.nocodesites.co.uk/prod/2542/files/32e2f73177541a4665845752732dc0f8fbb1236db9bd9ecb6a286650bf307c1e5ec1ffb4734bdcaa50176bd3ee24ac855383349839529dce5c86114c91bfd851.png)
 {{% notice color="gold" title="Kỹ năng" icon="exclamation-circle" %}}

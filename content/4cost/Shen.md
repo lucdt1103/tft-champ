@@ -1,7 +1,7 @@
 ---
 title: "Shen"
 date: 2023-06-07T11:55:15+07:00
-draft: true
+
 ---
 ![Shen](https://storage.googleapis.com/www.publish.nocodesites.co.uk/prod/2542/files/278d03f1a2e0fe62062fbc1c5c185eed225616a7d4df81110e5509671b551dbd674d3e041ad890b3dd29359ed2a212b51cb98dfb7ffbc5ea159a5ce14cdb6fac.png)
 {{% notice color="fuchsia" title="Kỹ năng" icon="exclamation-circle" %}}

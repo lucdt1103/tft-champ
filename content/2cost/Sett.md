@@ -1,7 +1,7 @@
 ---
 title: "Sett"
 date: 2023-06-07T11:55:15+07:00
-draft: true
+
 ---
 ![Sett](https://storage.googleapis.com/www.publish.nocodesites.co.uk/prod/2542/files/1d4659a679a591df7a3c0e1154cc9fd2f9c5631c722ab0ce1b81492a0f4c1e9ed78ddae295426d695181683c925c22ee0dda7a571ea2feb770309de65751d8a2.png)
 {{% notice style="green" title="Kỹ năng" icon="exclamation-circle" %}}

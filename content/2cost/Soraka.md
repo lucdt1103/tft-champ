@@ -1,7 +1,7 @@
 ---
 title: "Soraka"
 date: 2023-06-07T11:55:15+07:00
-draft: true
+
 ---
 ![Soraka](https://storage.googleapis.com/www.publish.nocodesites.co.uk/prod/2542/files/52e929bcf0d668fd5f870ca21f5af4a2edb8c5d32367231006ba29700d677dcaf61a586042fd690c280d4b24d845805d72b771093bc71ecef8403b493ce1c043.png)
 {{% notice style="green" title="Kỹ năng" icon="exclamation-circle" %}}

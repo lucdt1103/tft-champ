@@ -1,7 +1,7 @@
 ---
 title: "Warwick"
 date: 2023-06-07T11:55:15+07:00
-draft: true
+
 ---
 ![Warwick](https://storage.googleapis.com/www.publish.nocodesites.co.uk/prod/2542/files/d0fb37c6cdd02387de6c03154f40dcd8c3dd40a1f273ef495d03844faaef90204e2bd5445916689cec348001283cd7171fc7b858aa1d2d60edee9b18c972fa09.png)
 {{% notice style="green" title="Kỹ năng" icon="exclamation-circle" %}}

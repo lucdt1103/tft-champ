@@ -1,7 +1,7 @@
 ---
 title: "Ahri"
 date: 2023-06-07T11:55:15+07:00
-draft: true
+
 ---
 ![Ahri](https://storage.googleapis.com/www.publish.nocodesites.co.uk/prod/2542/files/24ebd46598df1bdb6a1c9cc90fdae3ec03f9f1b7294b9bbbf64404065ecc2ee0f5bc5f50562398ffcb1c9535c87d47660f73c969d3301054bc57e799a098b398.png)
 {{% notice color="gold" title="Kỹ năng" icon="exclamation-circle" %}}
