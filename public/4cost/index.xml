@@ -5,6 +5,99 @@
     <link>http://example.org/4cost/index.html</link>
     <description>Recent content in 4$ on TFT| Champions</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/4cost/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Jun 2023 11:55:15 +0700</lastBuildDate><atom:link href="http://example.org/4cost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aphelios</title>
+      <link>http://example.org/4cost/aphelios/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/4cost/aphelios/index.html</guid>
+      <description>Kỹ năng Aphelios sử dụng Ánh Trăng Dẫn Lối lên khu vực đông kẻ thù nhất, gây sát thương vật lý lên tất cả mục tiêu trong phạm vi 2 ô. Trong 7 giây tiếp theo, Aphelios sẽ nhận được 4 Chakram, cộng thêm một Chakram với mỗi kẻ thù dính chiêu.
+Các đòn tấn công gây thêm 6/9/34 sát thương vật lý cho mỗi Chakram được trang bị. Aphelios hồi máu bằng 50% sát thương gây ra bởi Chakram.</description>
+    </item>
+    <item>
+      <title>Azir</title>
+      <link>http://example.org/4cost/azir/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/4cost/azir/index.html</guid>
+      <description>Kỹ năng Nội tại: Mỗi đòn đánh thứ 3, Lính Cát sẽ gây sát thương phép lên mục tiêu.
+Kích hoạt: Triệu hồi một Lính Cát tấn công mục tiêu. Nếu Azir đã có 3 Lính Cát, chúng sẽ gây sát thương phép ngay lập tức.</description>
+    </item>
+    <item>
+      <title>Gwen</title>
+      <link>http://example.org/4cost/gwen/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/4cost/gwen/index.html</guid>
+      <description>Kỹ năng Gwen lướt về phía mục tiêu, tấn công 3 lần theo hình nón, gây sát thương phép cho kẻ địch trúng phải. Cứ sau 3 lần dùng chiêu, Gwen sẽ nhận được 150/150/300 giáp và kháng phép trong vòng 2/3/4 giây.</description>
+    </item>
+    <item>
+      <title>Jarvan IV</title>
+      <link>http://example.org/4cost/jarvan-iv/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/4cost/jarvan-iv/index.html</guid>
+      <description>Kỹ năng Nhảy vào một kẻ thù gần đó. Gây sát thương phép lên kẻ địch trong vòng 2 ô và Làm choáng chúng trong 2/3/8 giây.</description>
+    </item>
+    <item>
+      <title>Kai&#39;Sa</title>
+      <link>http://example.org/4cost/kaisa/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/4cost/kaisa/index.html</guid>
+      <description>Kỹ năng Lướt xa khỏi tất cả kẻ thù, sau đó bắn 15/15/25 tên lửa xuyên qua 4 kẻ thù gần nhất. Mỗi quả tên lửa gây 85/125/400 sát thương phép.</description>
+    </item>
+    <item>
+      <title>Lux</title>
+      <link>http://example.org/4cost/lux/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/4cost/lux/index.html</guid>
+      <description>Kỹ năng Phóng một luồng ánh sáng vào mục tiêu hiện tại gây 750/1125/4000 sát thương phép trong 3/3/6 giây và giảm Kháng Phép của chúng đi 15/15/50 mỗi giây. Nếu mục tiêu bị hạ gục, Lux sẽ đổi hướng sang mục tiêu mới.</description>
+    </item>
+    <item>
+      <title>Nasus</title>
+      <link>http://example.org/4cost/nasus/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/4cost/nasus/index.html</guid>
+      <description>Kỹ năng Cướp 5/5/15% máu tối đa, 10% sát thương vật lý, 5/5/30 giáp và 5/5/30 kháng phép từ 4/5/9 kẻ địch gần nhất trong 8 giây.
+Khi được cường hóa, mỗi đòn tấn công thứ ba sẽ gây ra 210/315/945 sát thương vật lý.</description>
+    </item>
+    <item>
+      <title>Sejuani</title>
+      <link>http://example.org/4cost/sejuani/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/4cost/sejuani/index.html</guid>
+      <description>Kỹ năng Nội tại: Mỗi khi đồng minh tấn công mục tiêu bị hiệu ứng Băng (giảm 30% tốc độ đánh) sẽ gây thêm sát thương chuẩn.
+Kích hoạt: Sejuani nhận 1 lá chắn trong 4 giây, đồng thời gây sát thương phép lên mục tiêu xung quanh cùng hiệu ứng Băng trong 4 giây.</description>
+    </item>
+    <item>
+      <title>Shen</title>
+      <link>http://example.org/4cost/shen/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/4cost/shen/index.html</guid>
+      <description>Kỹ năng Nhận 350/450/2000 Lá chắn và chia sẻ 250/350/1500 Lá chắn cho 2 đồng minh có Máu thấp nhất trong 4 giây. Sau khi tạo lá chắn cho đồng đội, lá chắn của Shen phát nổ, gây sát thương phép cho những kẻ địch xung quanh.
+Hiệu ứng Ionia: +10% giảm sát thương.</description>
+    </item>
+    <item>
+      <title>Urgot</title>
+      <link>http://example.org/4cost/urgot/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/4cost/urgot/index.html</guid>
+      <description>Kỹ năng Nội tại: Bất cứ khi nào kẻ thù bước vào phạm vi tấn công, mỗi chân của Urgot sẽ nhắm vào mục tiêu và gây sát thương vật lý. Mỗi chân của Urgot sẽ gây sát thương với hồi chiêu 4/4/1 giây.
+Kích hoạt: Urgot nhận 1 lá chắn trong 5 giây và lướt về phía sau mục tiêu, các chân của Urgot sẽ được hồi chiêu và tấn công ngay lập tức.</description>
+    </item>
+    <item>
+      <title>Yasuo</title>
+      <link>http://example.org/4cost/yasuo/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/4cost/yasuo/index.html</guid>
+      <description>Kỹ năng Gửi một cơn lốc vào kẻ thù ở xa nhất trong 3 ô, làm choáng toàn bộ mục tiêu bị dính chiêu. Sau đó, lao tới và chém mục tiêu ban đầu, gây sát thương vật lý cho chúng. Đập chúng xuống đất và gây 175/263/788 sát thương vật lý cho kẻ thù trong vòng 1 ô
+Hiệu ứng Ionia: +15% hút máu toàn phần.</description>
+    </item>
+    <item>
+      <title>Zeri</title>
+      <link>http://example.org/4cost/zeri/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/4cost/zeri/index.html</guid>
+      <description>Kỹ năng Nội tại: Zeri sẽ kết liễu kẻ thù dưới ngưỡng máu nhất định.
+Kích hoạt: Trong vòng 5 giây, đòn đánh của Zeri sẽ gây sát thương vật lý lên 3/3/5 kẻ thù. Kết liễu kẻ thù sẽ hồi lại kỹ năng này.</description>
+    </item>
   </channel>
 </rss>

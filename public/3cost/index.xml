@@ -5,6 +5,101 @@
     <link>http://example.org/3cost/index.html</link>
     <description>Recent content in 3$ on TFT| Champions</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/3cost/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Jun 2023 11:55:15 +0700</lastBuildDate><atom:link href="http://example.org/3cost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Akshan</title>
+      <link>http://example.org/3cost/akshan/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/3cost/akshan/index.html</guid>
+      <description>Kỹ năng Akshan nhắm về phía kẻ địch xa nhất, sau đó bắn ra 6 phát đạn về phía mục tiêu. Mỗi viên đạn sẽ gây sát thương vật lý lên kẻ thù đầu tiên dính chiêu.</description>
+    </item>
+    <item>
+      <title>Darius</title>
+      <link>http://example.org/3cost/darius/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/3cost/darius/index.html</guid>
+      <description>Kỹ năng Darius bổ rìu, gây sát thương vật lý lên mục tiêu hiện tại. Nếu hạ gục mục tiêu, Darius sẽ sử dụng lại kỹ năng với 82/85/90% sát thương.</description>
+    </item>
+    <item>
+      <title>Ekko</title>
+      <link>http://example.org/3cost/ekko/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/3cost/ekko/index.html</guid>
+      <description>Kỹ năng Hồi 30% sát thương nhận vào trong 4 giây trước và gây sát thương phép lên mục tiêu hiện tại.</description>
+    </item>
+    <item>
+      <title>Garen</title>
+      <link>http://example.org/3cost/garen/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/3cost/garen/index.html</guid>
+      <description>Kỹ năng Quay 2 lần (Tăng theo tốc độ đánh) mỗi giây trong 4 giây (Tăng theo SMPT) tiếp theo. Mỗi vòng quay gây 49/79/126 (Tăng theo SMCK) sát thương vật lý cho kẻ thù liền kề.</description>
+    </item>
+    <item>
+      <title>Jayce</title>
+      <link>http://example.org/3cost/jayce/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/3cost/jayce/index.html</guid>
+      <description>Kỹ năng Tăng tốc độ đánh cho Jayce và các đồng minh ở bên trái và bên phải của anh ta trong 3 giây. Jayce bắn ra quả cầu sấm, phát nổ khi chạm vào kẻ thủ đầu tiên và gây sát thương vật lý diện rộng.</description>
+    </item>
+    <item>
+      <title>Kalista</title>
+      <link>http://example.org/3cost/kalista/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/3cost/kalista/index.html</guid>
+      <description>Kỹ năng Nội tại: Đòn đánh của Kalista sẽ găm giáo lên mục tiêu, gây sát thương chuẩn khi ngọn giáo biến mất. Kalista sẽ rút hết giáo khi kết liễu mục tiêu.
+Kích hoạt: Kalista sẽ ngăm 5 ngọn giáo vào mục tiêu mà cô đang tấn công.</description>
+    </item>
+    <item>
+      <title>Karma</title>
+      <link>http://example.org/3cost/karma/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/3cost/karma/index.html</guid>
+      <description>Kỹ năng Bắn ra một luồng năng lượng phát nổ khi va chạm và gây sát thương phép cho những kẻ địch xung quanh. Mỗi lần dùng chiêu thứ 3, Karma sẽ phóng ra 3 tia năng lượng.
+Hiệu ứng Ionia: +25% SMPT.</description>
+    </item>
+    <item>
+      <title>Katarina</title>
+      <link>http://example.org/3cost/katarina/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/3cost/katarina/index.html</guid>
+      <description>Kỹ năng Katarina ném 3 phi dao vào kẻ thủ trong phạm vi 2 ô, sau đó dịch chuyển tới vị trí của mỗi phi dao, gây sát thương phép kèm hiệu ứng Vết Thương Sâu (giảm hồi máu 50%) trong 6 giây lên kẻ thù xung quanh.</description>
+    </item>
+    <item>
+      <title>Lissandra</title>
+      <link>http://example.org/3cost/lissandra/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/3cost/lissandra/index.html</guid>
+      <description>Kỹ năng Lissandra làm choáng mục tiêu hiện tại trong 2 giây, gây sát thương phép diện rộng lên tất cả kẻ thù xung quanh mục tiêu 2 ô. Chúng sẽ nhận thêm 10% sát thương trong 4 giây tiếp theo.</description>
+    </item>
+    <item>
+      <title>Rek&#39;Sai</title>
+      <link>http://example.org/3cost/reksai/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/3cost/reksai/index.html</guid>
+      <description>Kỹ năng Rek&amp;rsquo;Sai cắn kẻ thù, gây sát thương vật lý lên mục tiêu hiện tại. Nếu mục tiêu dưới 60% máu, kỹ năng sẽ gây sát thương chuẩn.
+Nếu kỹ năng của Rek&amp;rsquo;Sai kết liễu mục tiêu, cô lướt qua chúng 1 ô và hồi một lượng máu.</description>
+    </item>
+    <item>
+      <title>Sona</title>
+      <link>http://example.org/3cost/sona/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/3cost/sona/index.html</guid>
+      <description>Kỹ năng Sona tung ra một làn sóng vào khu vực nhiều kẻ địch nhất, gây sát thương phép lên tất cả kẻ thù dính phải. Đồng minh ở trong phạm vi ảnh hưởng sẽ được tăng 25/30/40% tốc độ tấn công trong vòng 5 giây.</description>
+    </item>
+    <item>
+      <title>Taric</title>
+      <link>http://example.org/3cost/taric/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/3cost/taric/index.html</guid>
+      <description>Kỹ năng Taric tạo ra một lá chắn trong vòng 6 giây, hấp thụ toàn bộ sát thương nhằm vào bản thân và các đồng minh xung quanh.</description>
+    </item>
+    <item>
+      <title>Vel&#39;Koz</title>
+      <link>http://example.org/3cost/velkoz/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/3cost/velkoz/index.html</guid>
+      <description>Kỹ năng Vel&amp;rsquo;Koz bắn ra một tia plasma vào mục tiêu, gây sát thương phép lên kẻ thù đầu tiên trúng chiêu, sau đó tia năng lượng sẽ tách đôi, gây sát thương ít hơn 50% mỗi khi đi qua một kẻ thù.</description>
+    </item>
   </channel>
 </rss>

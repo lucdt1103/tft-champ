@@ -3,4 +3,4 @@ archetype = "home"
 title = ""
 +++
 
-Lorem Ipsum.
+Danh sách tướng mùa 9

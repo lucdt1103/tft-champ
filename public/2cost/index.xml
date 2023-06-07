@@ -5,6 +5,105 @@
     <link>http://example.org/2cost/index.html</link>
     <description>Recent content in 2$ on TFT| Champions</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/2cost/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Jun 2023 11:55:15 +0700</lastBuildDate><atom:link href="http://example.org/2cost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ashe</title>
+      <link>http://example.org/2cost/ashe/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/2cost/ashe/index.html</guid>
+      <description>Kỹ năng Ashe bắn ra 8 mũi tên theo hình nón, gây sát thương lên kẻ thù đầu tiên chạm phải và giảm 30% tốc độ tấn công của mục tiêu trong 2s.</description>
+    </item>
+    <item>
+      <title>Galio</title>
+      <link>http://example.org/2cost/galio/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/2cost/galio/index.html</guid>
+      <description>Kỹ năng Giảm 30% sát thương nhận vào và hồi máu trong 4 giây. Sau đó, gây sát thương phép lên những kẻ địch xung quanh.</description>
+    </item>
+    <item>
+      <title>Jinx</title>
+      <link>http://example.org/2cost/jinx/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/2cost/jinx/index.html</guid>
+      <description>Kỹ năng Bắn 5 tên lửa vào kẻ thù ngẫu nhiên trong vòng 2 ô của mục tiêu hiện tại. Mỗi tên lửa gây 71/106/167 sát thương vật lý.</description>
+    </item>
+    <item>
+      <title>Kassadin</title>
+      <link>http://example.org/2cost/kassadin/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/2cost/kassadin/index.html</guid>
+      <description>Kỹ năng Nhận một lá chắn trong 4 giây và gây sát thương phép lên kẻ thù theo hình nón, đồng thời cấm đánh và di chuyển trong 2 giây.</description>
+    </item>
+    <item>
+      <title>Kled</title>
+      <link>http://example.org/2cost/kled/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/2cost/kled/index.html</guid>
+      <description>Kỹ năng Nội tại: Kled sẽ khởi đầu với một lá chắn. Khi lá chắn bị phá bỏ, Kled sẽ xuống ngựa, nhận thêm tốc độ đánh cộng dồn trong phần còn lại của giao tranh.
+Kích hoạt: Kled lên ngựa và nhận lá chắn.
+Nâng cấp 4 sao: Kled kết liễu kẻ thù dưới 20% máu.</description>
+    </item>
+    <item>
+      <title>Sett</title>
+      <link>http://example.org/2cost/sett/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/2cost/sett/index.html</guid>
+      <description>Kỹ năng Nắm lấy kẻ thù từ hai bên và đập chúng vào nhau, gây sát thương phép kết hợp làm choáng trong 2/2/3 giây. Nếu Sett chỉ kéo 1 kẻ thù, sát thương và thời gian choáng sẽ tăng 50%.
+Hiệu ứng Ionia: +150 máu.</description>
+    </item>
+    <item>
+      <title>Soraka</title>
+      <link>http://example.org/2cost/soraka/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/2cost/soraka/index.html</guid>
+      <description>Kỹ năng Hồi 200/240/280 máu cho đồng minh thấp máu nhất. Nếu dưới 50% Máu, hồi cho họ thêm 100/120/140 máu. Đồng minh được hồi máu trong vòng 5 giây sẽ được triệu hồi 5 ngôi sao, gây sát thương phép lên kẻ thù xung quanh.</description>
+    </item>
+    <item>
+      <title>Swain</title>
+      <link>http://example.org/2cost/swain/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/2cost/swain/index.html</guid>
+      <description>Kỹ năng Biến hình và nhận thêm Máu tối đa trong 8 giây. Khi biến hình, gây 30/45/70 sát thương phép cho kẻ địch trong vòng 2 ô mỗi giây.</description>
+    </item>
+    <item>
+      <title>Taliyah</title>
+      <link>http://example.org/2cost/taliyah/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/2cost/taliyah/index.html</guid>
+      <description>Kỹ năng Nội tại: Mỗi khi kẻ thù bị hất tung hoặc đẩy lùi bởi bất cứ thứ gì, Taliyah sẽ ném đá, gây sát thương phép vào chúng.
+Kích hoạt: Gây sát thương phép và hất tung mục tiêu hiện tại trong vòng 2 giây.</description>
+    </item>
+    <item>
+      <title>Teemo</title>
+      <link>http://example.org/2cost/teemo/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/2cost/teemo/index.html</guid>
+      <description>Kỹ năng Teemo ném một cây nấm vào mục tiêu hiện tại. Khi nấm phát nổ, kẻ thù trong vòng 1 ô sẽ nhận sát thương phép trong vòng 3 giây kèm theo hiệu ứng Vết thương sâu (giảm hồi máu 50%).
+Nâng cấp 4 sao: Tăng phạm vi nổ thêm 1 ô.</description>
+    </item>
+    <item>
+      <title>Vi</title>
+      <link>http://example.org/2cost/vi/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/2cost/vi/index.html</guid>
+      <description>Kỹ năng Vi tạo cho mình một lá chắn trong 4 giây, giảm 40% Giáp của kẻ địch xung quanh trong 4 giây và gây sát thương theo phần trăm sát thương vật lý của cô.</description>
+    </item>
+    <item>
+      <title>Warwick</title>
+      <link>http://example.org/2cost/warwick/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/2cost/warwick/index.html</guid>
+      <description>Kỹ năng Nội tại: Warwick được hồi máu dựa theo đòn đánh.
+Kích hoạt: Tăng hiệu ứng hồi máu từ nội tại lên 50% trong 3s. Sau đó, Warwick làm choáng kẻ địch xung quanh trong 1/2/2 giây.</description>
+    </item>
+    <item>
+      <title>Zed</title>
+      <link>http://example.org/2cost/zed/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/2cost/zed/index.html</guid>
+      <description>Kỹ năng Phân bóng vào kẻ thù xa nhất trong vòng 3 ô (tăng theo tầm đánh). Zed và bóng của hắn chém kẻ địch xung quanh, gây 120/180/291 sát thương vật lý.
+Hiệu ứng Ionia: +15% tỷ lệ chí mạng và sát thương chí mạng.</description>
+    </item>
   </channel>
 </rss>

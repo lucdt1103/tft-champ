@@ -5,6 +5,70 @@
     <link>http://example.org/5cost/index.html</link>
     <description>Recent content in 5$ on TFT| Champions</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/5cost/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Jun 2023 11:55:15 +0700</lastBuildDate><atom:link href="http://example.org/5cost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aatrox</title>
+      <link>http://example.org/5cost/aatrox/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/5cost/aatrox/index.html</guid>
+      <description>Kỹ năng Aatrox biến hình trong 10 giây và nhận Hút máu toàn phần. Khi biến hình, đòn đánh của Aatrox sẽ gây thêm sát thương vật lý dựa trên SMCK và Tốc độ đánh.</description>
+    </item>
+    <item>
+      <title>Ahri</title>
+      <link>http://example.org/5cost/ahri/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/5cost/ahri/index.html</guid>
+      <description>Kỹ năng Ahri cướp mảnh hồn từ mục tiêu, gây sát thương phép và khiến kẻ thù bị tăng 35% năng lượng tối đa.
+Mỗi lần dùng chiêu thứ 3/3/1, giải phóng một luồng năng lượng, gây sát thương phép lên tất cả kẻ thù dính chiêu. Kẻ thù bị cướp mảnh hồn sẽ nhận thêm 33% sát thương.
+Hiệu ứng Ionia: +3 năng lượng mỗi giây.</description>
+    </item>
+    <item>
+      <title>Bel&#39;Veth</title>
+      <link>http://example.org/5cost/belveth/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/5cost/belveth/index.html</guid>
+      <description>Kỹ năng Tấn công mục tiêu thấp máu nhất trong phạm vi 6/6/30 lần. Mỗi đòn tấn công sẽ gây sát thương vật lý kèm theo sát thương chuẩn theo 2% máu tối đa của mục tiêu.</description>
+    </item>
+    <item>
+      <title>Heimerdinger</title>
+      <link>http://example.org/5cost/heimerdinger/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/5cost/heimerdinger/index.html</guid>
+      <description>Kỹ năng Hermeidinger sẽ ném lựu đạn về đám đông kẻ thù, gây sát thương phép diện rộng kèm làm choáng trong 2/2/15 giây.
+Nâng cấp 4-sao: YES YES YES, IT WORKS!!!</description>
+    </item>
+    <item>
+      <title>K&#39;Sante</title>
+      <link>http://example.org/5cost/ksante/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/5cost/ksante/index.html</guid>
+      <description>Kỹ năng K&amp;rsquo;Sante hất tung kẻ thù lên không trung, sau đó đẩy mục tiêu về phía rìa chiến trường, gây sát thương phép kèm theo làm choáng trong vòng 2/3/10 giây. Kẻ thù chạm phải mục tiêu của K&amp;rsquo;Sante trong phạm vi ảnh hưởng chiêu cũng sẽ bị làm choáng trong 1/1/5 giây và nhận sát thương phép.
+Mục tiêu ở rìa chiến trường sẽ bị K&amp;rsquo;Sante hất văng khỏi bản đồ.</description>
+    </item>
+    <item>
+      <title>Ryze</title>
+      <link>http://example.org/5cost/ryze/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/5cost/ryze/index.html</guid>
+      <description>Kỹ năng Kỹ năng của Ryze thay đổi tùy thuộc vào cổng đã chọn ở đầu trò chơi.
+Bandle City: Ryze tạo một cánh cổng đến Thành phố Bandle bên dưới một đơn vị ngẫu nhiên trên băng ghế dự bị của bạn. Sau một thời gian ngắn, họ đến chiến trường với năng lượng bổ sung và &amp;hellip; nhỏ hơn một chút?
+Demacia: Ryze tạo ra một cánh cổng dẫn đến Demacia bên dưới một nhóm đồng minh bị thương, nhận được một Lá Chắn.</description>
+    </item>
+    <item>
+      <title>Senna</title>
+      <link>http://example.org/5cost/senna/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/5cost/senna/index.html</guid>
+      <description>Kỹ năng Senna bắn ra một tia năng lượng khổng lồ, nhằm về phía mục tiêu xa nhất và gây sát thương lên toàn bộ kẻ thù trong phạm vi ảnh hưởng. Đồng minh trong phạm vi ảnh hưởng sẽ nhận một lá chắn trong 4 giây.</description>
+    </item>
+    <item>
+      <title>Sion</title>
+      <link>http://example.org/5cost/sion/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/5cost/sion/index.html</guid>
+      <description>Kỹ năng Nội tại: Sau khi bị hạ gục, Sion sẽ hồi sinh với 100% máu tối đa, giảm dần 12/8/0% máu mỗi giây. Sion không thể sử dụng kỹ năng, nhưng được miễn nhiễm khống chế và được tăng tốc độ tấn công.
+Kích hoạt: Sion sẽ lao về khu vực có nhiều kẻ thù nhất trong vòng 3 ô. Gây sát thương vật lý và bị làm choáng những kẻ địch trên đường lao tới của Sion trong 1/2/15 giây.</description>
+    </item>
   </channel>
 </rss>

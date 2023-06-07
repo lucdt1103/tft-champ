@@ -5,6 +5,106 @@
     <link>http://example.org/1cost/index.html</link>
     <description>Recent content in 1$ on TFT| Champions</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/1cost/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Jun 2023 11:55:15 +0700</lastBuildDate><atom:link href="http://example.org/1cost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cassiopeia</title>
+      <link>http://example.org/1cost/cassiopeia/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/1cost/cassiopeia/index.html</guid>
+      <description>Kỹ năng Cassiopeia gây sát thương phép lên mục tiêu hiện tại và gây Vết thương sâu trong 5 giây. Nếu mục tiêu đã bị dính hiệu ứng từ trước sẽ nhận thêm sát thương phép.</description>
+    </item>
+    <item>
+      <title>Cho&#39;Gath</title>
+      <link>http://example.org/1cost/chogath/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/1cost/chogath/index.html</guid>
+      <description>Kỹ năng Cho&amp;rsquo;Gath gây sát thương phép lên kẻ địch có lượng máu thấp nhất trong tầm đánh. Nếu hạ gục mục tiêu, Cho&amp;rsquo;Gath sẽ nuốt mục tiêu và nhận thêm máu tối đa.</description>
+    </item>
+    <item>
+      <title>Irelia</title>
+      <link>http://example.org/1cost/irelia/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/1cost/irelia/index.html</guid>
+      <description>Kỹ năng Irelia bước vào thế thủ, nhận một lá chắn phân rã trong 3 giây. Khi lá chắn bị phá vỡ, Irelia sẽ gây sát thương phép + 30% sát thương hấp thụ được cho kẻ thù xung quanh và trước mặt Irelia.
+Hiệu ứng Ionia: + 30 giáp và kháng phép.</description>
+    </item>
+    <item>
+      <title>Jhin</title>
+      <link>http://example.org/1cost/jhin/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/1cost/jhin/index.html</guid>
+      <description>Kỹ năng Jhin nhắm vào mục tiêu đang tấn công, gây sát thương vật lý theo một đường thẳng, giảm 40% mỗi một mục tiêu đi qua.
+Hiệu ứng Ionia: + 20% SMCK.</description>
+    </item>
+    <item>
+      <title>Kayle</title>
+      <link>http://example.org/1cost/kayle/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/1cost/kayle/index.html</guid>
+      <description>Kỹ năng Nội tại: Kayle sẽ nhận được thêm hiệu ứng mới theo cấp độ của linh thú.
+Cấp 1: Đòn đánh của Kayle gây thêm sát thương phép.
+Cấp 6: Mỗi đòn đánh thứ 3 của Kayle sẽ có một làn sóng lửa gây sát thương diện rộng, đồng thời bị trừ 40% kháng phép của kẻ địch trong 4s.
+Cấp 9: Mỗi đòn đánh sẽ có sóng lửa và có phạm vi rộng hơn.</description>
+    </item>
+    <item>
+      <title>Malzahar</title>
+      <link>http://example.org/1cost/malzahar/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/1cost/malzahar/index.html</guid>
+      <description>Kỹ năng Malzahar tạo ra 2 cánh cổng không gian tại kẻ địch hiện tại, phá hủy 35% lá chắn và gây sát thương phép lên kẻ thù xung quanh cổng không gian.</description>
+    </item>
+    <item>
+      <title>Maokai</title>
+      <link>http://example.org/1cost/maokai/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/1cost/maokai/index.html</guid>
+      <description>Kỹ năng Nội tại: Mỗi khi kẻ thù sử dụng kỹ năng, Maokai nhận 5 năng lượng.
+Kích hoạt: Đòn đánh tiếp theo sẽ hồi máu cho Maokai.</description>
+    </item>
+    <item>
+      <title>Orianna</title>
+      <link>http://example.org/1cost/orianna/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/1cost/orianna/index.html</guid>
+      <description>Kỹ năng Orianna tạo lá chắn lên đồng minh thấp máu nhất trong 4 giây. Khi lá chắn hết hiệu lực, kẻ thù xung quanh bị gây sát thương phép và giảm 30% tốc độ tấn công trong 3s.</description>
+    </item>
+    <item>
+      <title>Poppy</title>
+      <link>http://example.org/1cost/poppy/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/1cost/poppy/index.html</guid>
+      <description>Kỹ năng Nhận 1 lá chắn trong 3 giây, gây sát thương phép lên mục tiêu hiện tại,.
+Nâng cấp 4 sao: Poppy hất tung mục tiêu vào khu vực có nhiều kẻ thù nhất, gây sát thương phép theo 40% máu tối đa của mục tiêu hiện tại lên chính hắn và 25% lên đám đông. Tất cả kẻ thù trong vùng ảnh hưởng bị làm choáng trong 2 giây.</description>
+    </item>
+    <item>
+      <title>Renekton</title>
+      <link>http://example.org/1cost/renekton/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/1cost/renekton/index.html</guid>
+      <description>Kỹ năng Gây sát thương phép lên tất cả kẻ thù xung quanh. Hồi 220/270/320 máu với kẻ địch đầu tiên trúng đòn và 30 máu với mỗi kẻ địch tiếp theo.</description>
+    </item>
+    <item>
+      <title>Samira</title>
+      <link>http://example.org/1cost/samira/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/1cost/samira/index.html</guid>
+      <description>Kỹ năng Samira bắn và gây sát thương lên kẻ thù đầu tiên. Mục tiêu bị trúng chiêu sẽ bị trừ 10/15/20 giáp trong phần còn lại của giao tranh.</description>
+    </item>
+    <item>
+      <title>Tristana</title>
+      <link>http://example.org/1cost/tristana/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/1cost/tristana/index.html</guid>
+      <description>Kỹ năng Tăng tốc độ đánh trong 4 giây. Trong thời gian đó, các đòn tấn công phát nổ khi va chạm và gây sát thương vật lý cho kẻ thù trong vòng 1 ô.
+Nâng cấp 4 sao: Mỗi đòn đánh thứ 8 gây thêm 45/68/101/152 sát thương vật lý và nảy vào nhóm kẻ thù đông nhất, gây 23/34/51/76 sát thương vật lý lên kẻ địch trong vòng 1 ô.</description>
+    </item>
+    <item>
+      <title>Viego</title>
+      <link>http://example.org/1cost/viego/index.html</link>
+      <pubDate>Wed, 07 Jun 2023 11:55:15 +0700</pubDate>
+      <guid>http://example.org/1cost/viego/index.html</guid>
+      <description>Kỹ năng Gây sát thương phép lên mục tiêu hiện tại. Trong phần còn lại của trận chiến, các đòn tấn công của Viego gây thêm 20/30/45 sát thương phép và có thể cộng dồn.</description>
+    </item>
   </channel>
 </rss>
